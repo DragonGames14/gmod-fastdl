@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "gaz/moscow_tablo/moscow_tablo"
+	$bumpmap "gaz/moscow_tablo/moscow_tablo_n"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 2048
+	$phongboost 1.05
+}
+
+// ©Moscow Subway Metrostroi Project 2022
+// ©Gazeta_Metro 2022
